@@ -37,4 +37,5 @@ OpenCore est un **"boot loader"** permettant de charger macOS sur un PC basé su
 
 ## Recherches supplémentaires
 
-[Recherches](RECHERCHES.md)
+- [Recherche 1 - vérifier la version de opencore](RECHERCHES_1.md)
+- [Recherche 2 - gpu](RECHERCHES_2.md)

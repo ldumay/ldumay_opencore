@@ -1,10 +1,6 @@
 [Retour](../../)
 
-# Recherches supplémentaires
-
-## OpenCore
-
-### Recherche 1 - vérifier la version de opencore
+# Recherche 1 - vérifier la version de opencore
 
 - [google - vérifier la version de opencore](https://www.google.com/search?rlz=1C1CHBF_frFR912FR912&sxsrf=AJOqlzUKSaMgm1RPEB_xC4-Q_NLokIMr4A:1678188394624&q=v%C3%A9rifier+la+version+de+opencore&spell=1&sa=X&ved=2ahUKEwj9v4L52sn9AhXSVKQEHao5ChsQBSgAegQIOxAB&biw=3072&bih=1586&dpr=1.25)
   - [Connaitre sa version OpenCore](https://www.hackintosh-montreal.com/t11338-connaitre-sa-version-opencore)
